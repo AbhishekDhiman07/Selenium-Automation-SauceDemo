@@ -1,6 +1,6 @@
 # SauceDemo Selenium Automation
-
-## Result
-
-![Final Result](finalresult.png)
+# Login
 ![Login](login.png)
+
+# Final Result
+![Final Result](finalresult.png)
