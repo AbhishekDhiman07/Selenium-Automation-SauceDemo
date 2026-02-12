@@ -2,4 +2,4 @@
 
 | Login Page | Final Result |
 | :---: | :---: |
-| ![Login](./login.png) | ![Result](./final_result.png) |
+| ![Login](./login.png.png) | ![Result](./final_result.png.png) |
